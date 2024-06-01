@@ -1,0 +1,18 @@
+faça um prog para calcular o valor de uma viagem
+
+Voce tera 3 variaveis, sendo elas: 
+
+1 - preço do combustivel;
+2 - gasto medio do combustivel de carro por km;
+3 - distacia de km da viagem; 
+
+imprima no console o valor que sera gasto de combustivel para a viagem. 
+
+
+############
+
+1 - preço do combustivel; 6,00 L
+2 - gasto medio do combustivel de carro por km; 11km por litro - 6,00 l /11km = R$ 0,54 POR KM
+3 - distacia de km da viagem; 100 km    -   0,54 * 100KM = 54 REAIS de gasolina 
+4 - preço viagem = 54 reais 
+

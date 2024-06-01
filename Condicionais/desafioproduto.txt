@@ -1,0 +1,10 @@
+elabora um prog com o preço a ser pago pelo produto 
+considerando o preço normal e escolha de pagamento 
+
+condições de pag: 
+
+a vista debito - 10% de desconto; 
+a vista dinheiro ou pix - recebe 15% desconto 
+duas vezes, preço normal sem juros
+acima de 2 vezes, preço normal + juros de 10%
+
